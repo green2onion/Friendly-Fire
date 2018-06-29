@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+*.meta
+Friendly Fire/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+*.meta
